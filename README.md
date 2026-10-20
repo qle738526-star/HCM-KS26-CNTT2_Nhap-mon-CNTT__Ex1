@@ -13,5 +13,6 @@ Công cụ lập trình: 40 GB
 => Dung lượng trống = 256 - 143.91 = 112.09 GB
 3. Lưu thêm 500 bài MP3:
 Dung lượng 500 bài MP3 = 5 MB * 500 / 1024 = 2.44 GB
+
 So sánh: Dung lượng trống 112.09 GB lớn hơn 2.44 GB
 => Kết luận: HOÀN TOÀN ĐỦ. Lưu xong máy còn trống 112.09 - 2.44 = 109.65 GB.
